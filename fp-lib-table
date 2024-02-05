@@ -13,4 +13,5 @@
   (lib (name "PB_W25Q256JVEIQ_TR")(type "KiCad")(uri "${KIPRJMOD}/third_party/RP2040-PICO-BOOT/Project/Resources/W25Q256JVEIQ_TR.pretty")(options "")(descr ""))
   (lib (name "PB_2.54mmheadercastelation")(type "KiCad")(uri "${KIPRJMOD}/third_party/RP2040-PICO-BOOT/Project/Resources/2.54mmheadercastelation.pretty")(options "")(descr ""))
   (lib (name "PB_RT6150B-33GQW")(type "KiCad")(uri "${KIPRJMOD}/third_party/RP2040-PICO-BOOT/Project/Resources/RT6150B-33GQW")(options "")(descr ""))
+  (lib (name "JLC2KiCadLib")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/footprint")(options "")(descr ""))
 )
