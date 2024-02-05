@@ -1,0 +1,12 @@
+[submodule "third_party/BrownSugar_KBD_KiCad_Library"]
+	path = third_party/BrownSugar_KBD_KiCad_Library
+	url = https://github.com/koktoh/BrownSugar_KBD_KiCad_Library.git
+[submodule "third_party/kicad-libs"]
+	path = third_party/kicad-libs
+	url = https://github.com/kymok/kicad-libs.git
+[submodule "third_party/zeriparrot.pretty"]
+	path = third_party/zeriparrot.pretty
+	url = https://github.com/zeriyoshi/zeriparrot.pretty.git
+[submodule "third_party/RP2040-PICO-BOOT"]
+	path = third_party/RP2040-PICO-BOOT
+	url = https://github.com/RetroScaler/RP2040-PICO-BOOT.git

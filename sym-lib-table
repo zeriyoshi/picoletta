@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BrownSugar")(type "Legacy")(uri "${KIPRJMOD}/third_party/BrownSugar_KBD_KiCad_Library/BrownSugar_KBD/BrownSugar_KBD.lib")(options "")(descr ""))
+  (lib (name "PB_MCU_RaspberryPi_RP2040")(type "Legacy")(uri "${KIPRJMOD}/third_party/RP2040-PICO-BOOT/Project/Resources/MCU_RaspberryPi_RP2040.lib")(options "")(descr ""))
+  (lib (name "PB_VSYS")(type "Legacy")(uri "${KIPRJMOD}/third_party/RP2040-PICO-BOOT/Project/Resources/VSYS.lib")(options "")(descr ""))
+  (lib (name "PB_W25Q16JVSSIQ")(type "Legacy")(uri "${KIPRJMOD}/third_party/RP2040-PICO-BOOT/Project/Resources/W25Q16JVSSIQ.pretty/W25Q16JVSSIQ.lib")(options "")(descr ""))
+  (lib (name "PB_NCP1117ST33T3G")(type "Legacy")(uri "${KIPRJMOD}/third_party/RP2040-PICO-BOOT/Project/Resources/NCP1117ST33T3G.pretty/NCP1117ST33T3G.lib")(options "")(descr ""))
+  (lib (name "PB_ABM3-12.000MHZ-D2Y-T")(type "Legacy")(uri "${KIPRJMOD}/third_party/RP2040-PICO-BOOT/Project/Resources/ABM3-12.000MHZ-D2Y-T.pretty/ABM3-12.000MHZ-D2Y-T.lib")(options "")(descr ""))
+  (lib (name "PB_Type-C")(type "Legacy")(uri "${KIPRJMOD}/third_party/RP2040-PICO-BOOT/Project/Resources/HRO-TYPE-C31-M-12.pretty/Type-C.lib")(options "")(descr ""))
+  (lib (name "PB_logo")(type "Legacy")(uri "${KIPRJMOD}/third_party/RP2040-PICO-BOOT/Project/Resources/EnvExtras.pretty/logo.lib")(options "")(descr ""))
+  (lib (name "PB_W25Q256JVEIQ_TR")(type "Legacy")(uri "${KIPRJMOD}/third_party/RP2040-PICO-BOOT/Project/Resources/W25Q256JVEIQ_TR.pretty/W25Q256JVEIQ_TR.lib")(options "")(descr ""))
+  (lib (name "PB_RT6150B-33GQW")(type "Legacy")(uri "${KIPRJMOD}/third_party/RP2040-PICO-BOOT/Project/Resources/RT6150B-33GQW/RT6150B-33GQW.lib")(options "")(descr ""))
+)
