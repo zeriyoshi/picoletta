@@ -17,6 +17,7 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+*.lck
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -32,5 +33,9 @@ fp-info-cache
 # macOS
 *.DS_Store
 
-# JLCPCB
-/jlcpcb
+# JLCPCB Tool
+/jlcpcb/*
+!/jlcpcb/project.db
+/picopico/jlcpcb/*
+!/picopico/jlcpcb/project.db
+

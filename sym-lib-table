@@ -12,4 +12,5 @@
   (lib (name "PB_RT6150B-33GQW")(type "Legacy")(uri "${KIPRJMOD}/third_party/RP2040-PICO-BOOT/Project/Resources/RT6150B-33GQW/RT6150B-33GQW.lib")(options "")(descr ""))
   (lib (name "JLC2KiCadLib_SWPA3015S2R2NT")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/SWPA3015S2R2NT.kicad_sym")(options "")(descr ""))
   (lib (name "JLC2KiCadLib_ TD6810")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/TD6810.kicad_sym")(options "")(descr ""))
+  (lib (name "JLC2KiCadLib_1-1825027-7")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/1-1825027-7.kicad_sym")(options "")(descr ""))
 )

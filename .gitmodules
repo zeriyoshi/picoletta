@@ -10,3 +10,15 @@
 [submodule "third_party/RP2040-PICO-BOOT"]
 	path = third_party/RP2040-PICO-BOOT
 	url = https://github.com/RetroScaler/RP2040-PICO-BOOT.git
+[submodule "third_party/kbd"]
+	path = third_party/kbd
+	url = https://github.com/foostan/kbd.git
+[submodule "third_party/kiswitch"]
+	path = third_party/kiswitch
+	url = https://github.com/kiswitch/kiswitch.git
+[submodule "third_party/xtrapico"]
+	path = third_party/xtrapico
+	url = https://github.com/zeriyoshi/xtrapico
+[submodule "third_party/KiCad-DesignRules"]
+	path = third_party/KiCad-DesignRules
+	url = https://github.com/labtroll/KiCad-DesignRules.git
